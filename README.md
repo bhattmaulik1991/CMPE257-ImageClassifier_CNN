@@ -1,4 +1,4 @@
-# CMPE257-ImageClassifier_CNN
+# ImageClassifier_CNN
 Image Classifier using CNN
 
 ![Image](https://github.com/bhattmaulik1991/CMPE257-ImageClassifier_CNN/blob/master/dogcat.jpeg)
